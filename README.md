@@ -5,7 +5,7 @@
 </p>
  
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI & Big Data-blue" />
+  <img src="https://img.shields.io/badge/Focus-Data Engineering & AI-blue" />
   <img src="https://img.shields.io/badge/Location-Toulouse, France-blue" />
   <img src="https://img.shields.io/badge/Languages-French & English-blue" />
 </p>
