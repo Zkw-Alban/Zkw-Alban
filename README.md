@@ -1,16 +1,51 @@
-### Hi there 👋
+<h1 align="center">Hello, I'm Alban Zkw!</h1>
 
-<!--
-**Zkw-Alban/Zkw-Alban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <a><img src="http://readme-typing-svg.herokuapp.com?font=Avenir&color=%2307D1F7&size=24&center=true&vCenter=true&width=380&lines=Data+Engineer+in+aeronautical+industry;Data+Alchemist+Studio+co-Founder;Esport+enthusiast;and+very+curious+mind+:)"></a>
+</p>
+ 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI & Big Data-blue" />
+  <img src="https://img.shields.io/badge/Location-Paris, France-blue" />
+  <img src="https://img.shields.io/badge/Languages-French & English-blue" />
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Find me here</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alban-zurkowski-a92349231/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+</p>
+
+<h2>Programming Languages</h2>
+<p align="left"> 
+<img src="https://img.shields.io/badge/Python-306998?style=plastic&logo=Python&logoColor=FFD43B">
+<img src="https://img.shields.io/badge/R Studio-BFC2C5?style=plastic&logo=R&logoColor=276DC2">
+<img src="https://img.shields.io/badge/SAS-0A173F?style=plastic&logo=SAS&logoColor=0A173F">
+<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
+</p>
+<h2>Software & Tools</h2>
+<p align="left">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
+<img src="https://img.shields.io/badge/Git-DE7C16?style=plastic&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-409940?style=plastic&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/ElastickSearch-005571?style=plastic&logo=Elasticksearch&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/NodeJS-47C433?style=plastic&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge?style=plastic&logo=Express&logoColor=black">
+<img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB">
+</p>
+<h2>Documentation</h2>
+<p align="left"> 
+<img src="https://img.shields.io/badge/LaTeX-008080?style=plastic&logo=LaTeX&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=Markdown&logoColor=white">
+</p>
+<br><hr>
