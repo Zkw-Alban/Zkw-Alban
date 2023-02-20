@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Alban Zkw!</h1>
 
 <p align="center">
- <a><img src="http://readme-typing-svg.herokuapp.com?font=Avenir&color=%2307D1F7&size=24&center=true&vCenter=true&width=580&lines=I+am+Data+Engineer+in+aircraft+industry;Data+Alchemist+Studio+co-Founder;Esport+and+Motorsport+enthusiast;and+I+got+a+very+curious+mind+:)"></a>
+ <a><img src="http://readme-typing-svg.herokuapp.com?font=Avenir&color=%2307D1F7&size=24&center=true&vCenter=true&width=580&lines=I+am+Data+Engineer+in+aircraft+industry;Esport+and+Motorsport+enthusiast;and+I+got+a+very+curious+mind+:)"></a>
 </p>
  
 <p align="center">
